@@ -1,0 +1,5 @@
+[
+  {"id":"p1","name":{"en":"Ankara Dress","fr":"Robe Ankara","ar":"فستان أنقرة"},"description":{"en":"Colorful cotton dress","fr":"Robe en coton colorée","ar":"فستان قطني ملون"},"price":22000,"currency":"NGN","stock":12},
+  {"id":"p2","name":{"en":"Leather Sandals","fr":"Sandales en cuir","ar":"صندل جلدي"},"description":{"en":"Durable handmade sandals","fr":"Sandales artisanales durables","ar":"صندل يدوي متين"},"price":15000,"currency":"NGN","stock":8},
+  {"id":"p3","name":{"en":"Shea Body Butter","fr":"Beurre de karité","ar":"زبدة الشيا"},"description":{"en":"Natural skincare","fr":"Soin naturel","ar":"عناية طبيعية بالبشرة"},"price":8000,"currency":"NGN","stock":30}
+]
